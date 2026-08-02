@@ -1,3 +1,0 @@
-# CODSOFT_TASKSN
-TO DO list
-
